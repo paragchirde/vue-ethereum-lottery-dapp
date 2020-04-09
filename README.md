@@ -1,5 +1,5 @@
 # VueJs based Ethereum Dapp
-## A simple web application where users can place a bet and the manager of the contract can pick the winner randomly
+### A simple web application where users can place a bet and the manager of the contract can pick the winner randomly
 ## Project setup
 ```
 npm install
