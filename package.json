@@ -1,0 +1,38 @@
+{
+    "name": "eth-vue",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "test:unit": "vue-cli-service test:unit",
+        "compile": "node compile.js",
+        "test": "mocha"
+    },
+    "dependencies": {
+        "bootstrap": "^4.4.1",
+        "bootstrap-vue": "^2.11.0",
+        "core-js": "^3.6.4",
+        "ganache-cli": "^6.2.5",
+        "mocha": "^7.1.1",
+        "solc": "^0.4.25",
+        "truffle-hdwallet-provider": "0.0.3",
+        "vue": "^2.6.11",
+        "vue-router": "^3.1.6",
+        "vue-toastification": "^1.4.0",
+        "vuex": "^3.1.3",
+        "web3": "^1.2.6"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^4.3.0",
+        "@vue/cli-plugin-unit-mocha": "^4.3.1",
+        "@vue/cli-service": "^4.3.0",
+        "chai": "^4.1.2",
+        "vue-template-compiler": "^2.6.11"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ]
+}
