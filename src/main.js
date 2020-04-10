@@ -20,7 +20,6 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import web3 from './web3'
 
 
-
 Vue.config.productionTip = false
 
 new Vue({
